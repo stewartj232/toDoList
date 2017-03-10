@@ -1,0 +1,23 @@
+#list {
+  width: 30%;
+  margin: 25px auto 75px auto;
+  padding: 10px;
+  border: 2px green solid;
+  align-items: center;
+  text-align: center;
+  background-color: lightgray;
+}
+
+#add{
+  width: 30%;
+  padding: 15px;
+  margin: 25px auto 75px auto;
+  border: 2px blue dashed;
+  align-items: center;
+  text-align: center;
+  background-color: lightgray;
+}
+
+body {
+  background-image: url("images/backgroundpic.jpg");
+}
